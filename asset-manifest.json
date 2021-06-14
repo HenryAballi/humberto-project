@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/humberto-project/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/humberto-project/static/js/main.8bfd76fe.chunk.js",
+    "main.js.map": "/humberto-project/static/js/main.8bfd76fe.chunk.js.map",
+    "runtime-main.js": "/humberto-project/static/js/runtime-main.1d1da4ea.js",
+    "runtime-main.js.map": "/humberto-project/static/js/runtime-main.1d1da4ea.js.map",
+    "static/js/2.f6b09c10.chunk.js": "/humberto-project/static/js/2.f6b09c10.chunk.js",
+    "static/js/2.f6b09c10.chunk.js.map": "/humberto-project/static/js/2.f6b09c10.chunk.js.map",
+    "static/js/3.63bf67ce.chunk.js": "/humberto-project/static/js/3.63bf67ce.chunk.js",
+    "static/js/3.63bf67ce.chunk.js.map": "/humberto-project/static/js/3.63bf67ce.chunk.js.map",
+    "index.html": "/humberto-project/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/humberto-project/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f6b09c10.chunk.js.LICENSE.txt": "/humberto-project/static/js/2.f6b09c10.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/humberto-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d1da4ea.js",
+    "static/js/2.f6b09c10.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.8bfd76fe.chunk.js"
+  ]
+}
