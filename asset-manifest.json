@@ -1,23 +1,37 @@
 {
   "files": {
-    "main.css": "/humberto-project/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/humberto-project/static/js/main.8bfd76fe.chunk.js",
-    "main.js.map": "/humberto-project/static/js/main.8bfd76fe.chunk.js.map",
-    "runtime-main.js": "/humberto-project/static/js/runtime-main.1d1da4ea.js",
-    "runtime-main.js.map": "/humberto-project/static/js/runtime-main.1d1da4ea.js.map",
-    "static/js/2.f6b09c10.chunk.js": "/humberto-project/static/js/2.f6b09c10.chunk.js",
-    "static/js/2.f6b09c10.chunk.js.map": "/humberto-project/static/js/2.f6b09c10.chunk.js.map",
-    "static/js/3.63bf67ce.chunk.js": "/humberto-project/static/js/3.63bf67ce.chunk.js",
-    "static/js/3.63bf67ce.chunk.js.map": "/humberto-project/static/js/3.63bf67ce.chunk.js.map",
+    "main.css": "/humberto-project/static/css/main.68908e27.chunk.css",
+    "main.js": "/humberto-project/static/js/main.4574fccf.chunk.js",
+    "main.js.map": "/humberto-project/static/js/main.4574fccf.chunk.js.map",
+    "runtime-main.js": "/humberto-project/static/js/runtime-main.6bb0e58e.js",
+    "runtime-main.js.map": "/humberto-project/static/js/runtime-main.6bb0e58e.js.map",
+    "static/js/2.acecfd10.chunk.js": "/humberto-project/static/js/2.acecfd10.chunk.js",
+    "static/js/2.acecfd10.chunk.js.map": "/humberto-project/static/js/2.acecfd10.chunk.js.map",
     "index.html": "/humberto-project/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/humberto-project/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.f6b09c10.chunk.js.LICENSE.txt": "/humberto-project/static/js/2.f6b09c10.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/humberto-project/static/media/logo.6ce24c58.svg"
+    "static/css/main.68908e27.chunk.css.map": "/humberto-project/static/css/main.68908e27.chunk.css.map",
+    "static/js/2.acecfd10.chunk.js.LICENSE.txt": "/humberto-project/static/js/2.acecfd10.chunk.js.LICENSE.txt",
+    "static/media/aurora1_censored.e162f872.jpg": "/humberto-project/static/media/aurora1_censored.e162f872.jpg",
+    "static/media/aurora_censored_resize.c0afa252.jpg": "/humberto-project/static/media/aurora_censored_resize.c0afa252.jpg",
+    "static/media/edition1.57e2d969.mp4": "/humberto-project/static/media/edition1.57e2d969.mp4",
+    "static/media/humberto.932bd8ad.jpeg": "/humberto-project/static/media/humberto.932bd8ad.jpeg",
+    "static/media/humberto1.e5546bc1.jpeg": "/humberto-project/static/media/humberto1.e5546bc1.jpeg",
+    "static/media/humberto2.99a490a1.jpeg": "/humberto-project/static/media/humberto2.99a490a1.jpeg",
+    "static/media/joseCarlos.0323237b.jpeg": "/humberto-project/static/media/joseCarlos.0323237b.jpeg",
+    "static/media/joseCarlos1.61f4f0ee.jpeg": "/humberto-project/static/media/joseCarlos1.61f4f0ee.jpeg",
+    "static/media/logoHumberto.afa35abd.jpeg": "/humberto-project/static/media/logoHumberto.afa35abd.jpeg",
+    "static/media/maria.38518691.jpeg": "/humberto-project/static/media/maria.38518691.jpeg",
+    "static/media/owner.24fa1a40.jpeg": "/humberto-project/static/media/owner.24fa1a40.jpeg",
+    "static/media/owner1.bc988896.jpeg": "/humberto-project/static/media/owner1.bc988896.jpeg",
+    "static/media/owner2.83424842.jpeg": "/humberto-project/static/media/owner2.83424842.jpeg",
+    "static/media/rafael_censored.b6f8756d.jpg": "/humberto-project/static/media/rafael_censored.b6f8756d.jpg",
+    "static/media/solange.4c46480f.jpeg": "/humberto-project/static/media/solange.4c46480f.jpeg",
+    "static/media/vascos.f6bc9793.jpeg": "/humberto-project/static/media/vascos.f6bc9793.jpeg",
+    "static/media/vascos1.b88e4b8a.jpeg": "/humberto-project/static/media/vascos1.b88e4b8a.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d1da4ea.js",
-    "static/js/2.f6b09c10.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.8bfd76fe.chunk.js"
+    "static/js/runtime-main.6bb0e58e.js",
+    "static/js/2.acecfd10.chunk.js",
+    "static/css/main.68908e27.chunk.css",
+    "static/js/main.4574fccf.chunk.js"
   ]
 }
