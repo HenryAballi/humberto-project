@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.68908e27.chunk.css",
-    "main.js": "/static/js/main.c1379ea6.chunk.js",
-    "main.js.map": "/static/js/main.c1379ea6.chunk.js.map",
+    "main.js": "/static/js/main.3196948d.chunk.js",
+    "main.js.map": "/static/js/main.3196948d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6dd9ff25.js",
     "runtime-main.js.map": "/static/js/runtime-main.6dd9ff25.js.map",
     "static/js/2.acecfd10.chunk.js": "/static/js/2.acecfd10.chunk.js",
@@ -20,6 +20,8 @@
     "static/media/joseCarlos1.61f4f0ee.jpeg": "/static/media/joseCarlos1.61f4f0ee.jpeg",
     "static/media/logoHumberto.afa35abd.jpeg": "/static/media/logoHumberto.afa35abd.jpeg",
     "static/media/maria.38518691.jpeg": "/static/media/maria.38518691.jpeg",
+    "static/media/newPhoto.f603b547.jpeg": "/static/media/newPhoto.f603b547.jpeg",
+    "static/media/newPhoto1.3c8dca30.jpeg": "/static/media/newPhoto1.3c8dca30.jpeg",
     "static/media/owner.24fa1a40.jpeg": "/static/media/owner.24fa1a40.jpeg",
     "static/media/owner1.bc988896.jpeg": "/static/media/owner1.bc988896.jpeg",
     "static/media/owner2.83424842.jpeg": "/static/media/owner2.83424842.jpeg",
@@ -32,6 +34,6 @@
     "static/js/runtime-main.6dd9ff25.js",
     "static/js/2.acecfd10.chunk.js",
     "static/css/main.68908e27.chunk.css",
-    "static/js/main.c1379ea6.chunk.js"
+    "static/js/main.3196948d.chunk.js"
   ]
 }
